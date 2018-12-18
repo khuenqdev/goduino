@@ -1,0 +1,3 @@
+Tool for converting image to C/C++ code style array or string:
+1. https://www.digole.com/tools/PicturetoC_Hex_converter.php (Good)
+2. http://www.crait.net/tochars/ (Incorrect with image larger than 8x8, dunno why)
